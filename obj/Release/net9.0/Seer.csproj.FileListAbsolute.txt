@@ -1,0 +1,14 @@
+/home/kali/RiderProjects/Seer/bin/Release/net9.0/Seer
+/home/kali/RiderProjects/Seer/bin/Release/net9.0/Seer.deps.json
+/home/kali/RiderProjects/Seer/bin/Release/net9.0/Seer.runtimeconfig.json
+/home/kali/RiderProjects/Seer/bin/Release/net9.0/Seer.dll
+/home/kali/RiderProjects/Seer/bin/Release/net9.0/Seer.pdb
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.AssemblyInfoInputs.cache
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.AssemblyInfo.cs
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.csproj.CoreCompileInputs.cache
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.dll
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/refint/Seer.dll
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.pdb
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.genruntimeconfig.cache
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/ref/Seer.dll
