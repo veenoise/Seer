@@ -290,13 +290,13 @@ internal class NewUser : User
         Console.Write("Enter absolute path of nginx config: ");
         string nginxConfigLocation = Console.ReadLine() ?? throw new InvalidOperationException();
         Console.Write("Enter absolute path of rule config: ");
-        string ruleConfiglocation = Console.ReadLine() ?? throw new InvalidOperationException();
+        string ruleConfigLocation = Console.ReadLine() ?? throw new InvalidOperationException();
         
         Dictionary<string, string> configMap = new Dictionary<string, string>
         {
             { "nginx_log_location", nginxLogLocation },
             { "nginx_config_location", nginxConfigLocation },
-            { "rule_config_location", ruleConfiglocation }
+            { "rule_config_location", ruleConfigLocation }
         };
         string jsonConfig = JsonSerializer.Serialize(configMap, new JsonSerializerOptions { WriteIndented = true });
         File.WriteAllText(GetConfigName(), jsonConfig);
