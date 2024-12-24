@@ -12,6 +12,7 @@ This is a web application firewall that denies IPv4 addresses to your nginx serv
 
 Download the file in the release section of this GitHub repo.
 
+Run the command below. Ensure you have sudo access (this is for nginx -s reload). 
 ```dotnet
-sudo dotnet run 
+sudo dotnet Seer.dll 
 ```
