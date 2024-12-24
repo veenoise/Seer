@@ -296,7 +296,7 @@ internal class NewUser : User
         {
             { "nginx_log_location", nginxLogLocation },
             { "nginx_config_location", nginxConfigLocation },
-            { "rule_config_location", nginxConfigLocation }
+            { "rule_config_location", ruleConfiglocation }
         };
         string jsonConfig = JsonSerializer.Serialize(configMap, new JsonSerializerOptions { WriteIndented = true });
         File.WriteAllText(GetConfigName(), jsonConfig);
