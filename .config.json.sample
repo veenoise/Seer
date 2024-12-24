@@ -1,0 +1,5 @@
+{
+    "nginx_log_location": "/var/log/nginx/webapp-logs",
+    "nginx_config_location": "/etc/nginx/sites-available/default",
+    "rule_config_location": "/etc/nginx/packet-filtering-rules"
+}
