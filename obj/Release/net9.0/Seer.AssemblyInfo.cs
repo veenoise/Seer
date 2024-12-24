@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cab87bf817fb809d92658ce9b340ed7f7a1856cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
