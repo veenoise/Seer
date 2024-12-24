@@ -12,3 +12,4 @@
 /home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.pdb
 /home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.genruntimeconfig.cache
 /home/kali/RiderProjects/Seer/obj/Release/net9.0/ref/Seer.dll
+/home/kali/RiderProjects/Seer/obj/Release/net9.0/Seer.sourcelink.json
